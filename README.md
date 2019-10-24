@@ -2,7 +2,7 @@
 pybricks-stubs包为python+VSCode程序开发环境(lego ev3 for bricks-micropython)提供pybricks类方法等提示功能。
 这个包不支持在PC或机器人运行代码。这个包仅提供在PC上键入python代码时的pybricks代码提示功能。
 
-VSCcode的安装方法（在VSCode终端中键入）
+VSCcode的安装方法（在VSCode终端中键入）    
 py -3 -m venv .venv  
 .venv\Scripts\activate   
 python -m pip install --upgrade pip      
