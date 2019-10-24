@@ -11,7 +11,7 @@ pip install pybricks-stubs
 验证安装
 pip list         
 
-参考网站
+参考网站  
 [lego-pybricks](https://education.lego.com/en-us/support/mindstorms-ev3/python-for-ev3)   
 [github-pybricks-stubs](https://github.com/drewwhis/pybricks-stubs/tree/master/pybricks)  
 [pypi-pybricks-stubs](https://pypi.org/project/pybricks-stubs)
